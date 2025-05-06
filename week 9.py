@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import (
 class InputDialogDemo(QWidget):
     def _init_(self):
         super()._init_()
-        self.setWindowTitle('Input Dialog demo')
+        self.setWindowTitle('Input Dialog demo-F1D022109')
         self.setGeometry(100, 100, 400, 150)
 
         mainLayout = QHBoxLayout()
